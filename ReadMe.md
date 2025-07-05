@@ -1,8 +1,8 @@
-# 📋 Records Management App
+# Records Management App
 
 Un progetto **didattico** per imparare React e i suoi hooks principali attraverso un'applicazione di gestione records generica.
 
-## 🎯 Obiettivo Didattico
+## Obiettivo Didattico
 
 Questo progetto è stato creato come **esercizio di apprendimento** per padroneggiare:
 
@@ -22,35 +22,21 @@ Questo progetto è stato creato come **esercizio di apprendimento** per padroneg
 - **Architettura modulare**
 - **Gestione stato globale**
 
-## ✨ Funzionalità Implementate
+## Funzionalità Implementate
 
-- 🔍 **Ricerca** records per titolo/autore
-- 📂 **Filtro** per categoria
-- ❤️ **Sistema favoriti** con persistenza LocalStorage
-- ⚖️ **Confronto** tra 2 records
-- 📊 **Statistiche** in tempo reale
-- 🎨 **Stati colorati** per status dei records
+- **Ricerca** records per titolo/autore
+- **Filtro** per categoria
+- **Sistema favoriti** con persistenza LocalStorage
+- **Confronto** tra 2 records
+- **Statistiche** in tempo reale
+- **Stati colorati** per status dei records
 
-## 🛠️ Stack Tecnologico
+## Stack Tecnologico
 
 - **React 18** (via CDN)
 - **Babel Standalone** (transpilazione browser)
 - **Vanilla CSS** (design glassmorphism)
 - **LocalStorage** (persistenza dati)
-
-## 🚀 Come Eseguire
-
-```bash
-# Clona il repository
-git clone https://github.com/tuousername/records-management-app.git
-
-# Apri con un server locale
-python -m http.server 8000
-# oppure
-npx http-server
-
-# Vai su http://localhost:8000
-```
 
 ## 📁 Struttura
 
